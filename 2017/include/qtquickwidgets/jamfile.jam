@@ -1,0 +1,9 @@
+AWSubDir TOP platform ntamd64 Components ExternalLibraries Qt 5.6.1 include QtQuickWidgets ;
+
+AWInstallHeader QQuickWidget : qtinstall 3rd ;
+AWInstallHeader QtQuickWidgets : qtinstall 3rd ;
+AWInstallHeader QtQuickWidgetsDepends : qtinstall 3rd ;
+AWInstallHeader QtQuickWidgetsVersion : qtinstall 3rd ;
+AWInstallHeader qquickwidget.h : qtinstall 3rd ;
+AWInstallHeader qtquickwidgetsglobal.h : qtinstall 3rd ;
+AWInstallHeader qtquickwidgetsversion.h : qtinstall 3rd ;

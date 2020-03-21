@@ -1,0 +1,26 @@
+AWSubDir TOP platform ntamd64 Components ExternalLibraries Qt 5.6.1 include QtHelp ;
+
+AWInstallHeader QHelpContentItem : qtinstall 3rd ;
+AWInstallHeader QHelpContentModel : qtinstall 3rd ;
+AWInstallHeader QHelpContentWidget : qtinstall 3rd ;
+AWInstallHeader QHelpEngine : qtinstall 3rd ;
+AWInstallHeader QHelpEngineCore : qtinstall 3rd ;
+AWInstallHeader QHelpGlobal : qtinstall 3rd ;
+AWInstallHeader QHelpIndexModel : qtinstall 3rd ;
+AWInstallHeader QHelpIndexWidget : qtinstall 3rd ;
+AWInstallHeader QHelpSearchEngine : qtinstall 3rd ;
+AWInstallHeader QHelpSearchQuery : qtinstall 3rd ;
+AWInstallHeader QHelpSearchQueryWidget : qtinstall 3rd ;
+AWInstallHeader QHelpSearchResultWidget : qtinstall 3rd ;
+AWInstallHeader QtHelp : qtinstall 3rd ;
+AWInstallHeader QtHelpDepends : qtinstall 3rd ;
+AWInstallHeader QtHelpVersion : qtinstall 3rd ;
+AWInstallHeader qhelp_global.h : qtinstall 3rd ;
+AWInstallHeader qhelpcontentwidget.h : qtinstall 3rd ;
+AWInstallHeader qhelpengine.h : qtinstall 3rd ;
+AWInstallHeader qhelpenginecore.h : qtinstall 3rd ;
+AWInstallHeader qhelpindexwidget.h : qtinstall 3rd ;
+AWInstallHeader qhelpsearchengine.h : qtinstall 3rd ;
+AWInstallHeader qhelpsearchquerywidget.h : qtinstall 3rd ;
+AWInstallHeader qhelpsearchresultwidget.h : qtinstall 3rd ;
+AWInstallHeader qthelpversion.h : qtinstall 3rd ;

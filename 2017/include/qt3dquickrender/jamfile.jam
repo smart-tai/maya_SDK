@@ -1,0 +1,7 @@
+AWSubDir TOP platform ntamd64 Components ExternalLibraries Qt 5.6.1 include Qt3DQuickRender ;
+
+AWInstallHeader Qt3DQuickRender : qtinstall 3rd ;
+AWInstallHeader Qt3DQuickRenderDepends : qtinstall 3rd ;
+AWInstallHeader Qt3DQuickRenderVersion : qtinstall 3rd ;
+AWInstallHeader qt3dquickrender_global.h : qtinstall 3rd ;
+AWInstallHeader qt3dquickrenderversion.h : qtinstall 3rd ;

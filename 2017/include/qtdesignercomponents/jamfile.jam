@@ -1,0 +1,6 @@
+AWSubDir TOP platform ntamd64 Components ExternalLibraries Qt 5.6.1 include QtDesignerComponents ;
+
+AWInstallHeader QtDesignerComponents : qtinstall 3rd ;
+AWInstallHeader QtDesignerComponentsDepends : qtinstall 3rd ;
+AWInstallHeader QtDesignerComponentsVersion : qtinstall 3rd ;
+AWInstallHeader qtdesignercomponentsversion.h : qtinstall 3rd ;

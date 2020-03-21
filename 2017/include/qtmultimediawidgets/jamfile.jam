@@ -1,0 +1,15 @@
+AWSubDir TOP platform ntamd64 Components ExternalLibraries Qt 5.6.1 include QtMultimediaWidgets ;
+
+AWInstallHeader QCameraViewfinder : qtinstall 3rd ;
+AWInstallHeader QGraphicsVideoItem : qtinstall 3rd ;
+AWInstallHeader QVideoWidget : qtinstall 3rd ;
+AWInstallHeader QVideoWidgetControl : qtinstall 3rd ;
+AWInstallHeader QtMultimediaWidgets : qtinstall 3rd ;
+AWInstallHeader QtMultimediaWidgetsDepends : qtinstall 3rd ;
+AWInstallHeader QtMultimediaWidgetsVersion : qtinstall 3rd ;
+AWInstallHeader qcameraviewfinder.h : qtinstall 3rd ;
+AWInstallHeader qgraphicsvideoitem.h : qtinstall 3rd ;
+AWInstallHeader qtmultimediawidgetdefs.h : qtinstall 3rd ;
+AWInstallHeader qtmultimediawidgetsversion.h : qtinstall 3rd ;
+AWInstallHeader qvideowidget.h : qtinstall 3rd ;
+AWInstallHeader qvideowidgetcontrol.h : qtinstall 3rd ;

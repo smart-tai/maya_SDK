@@ -1,0 +1,8 @@
+AWSubDir TOP platform ntamd64 Components ExternalLibraries Qt 5.6.1 include QtOpenGLExtensions ;
+
+AWInstallHeader QOpenGLExtensions : qtinstall 3rd ;
+AWInstallHeader QtOpenGLExtensions : qtinstall 3rd ;
+AWInstallHeader QtOpenGLExtensionsDepends : qtinstall 3rd ;
+AWInstallHeader QtOpenGLExtensionsVersion : qtinstall 3rd ;
+AWInstallHeader qopenglextensions.h : qtinstall 3rd ;
+AWInstallHeader qtopenglextensionsversion.h : qtinstall 3rd ;

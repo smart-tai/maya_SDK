@@ -1,0 +1,24 @@
+AWSubDir TOP platform ntamd64 Components ExternalLibraries Qt 5.6.1 include QtConcurrent ;
+
+AWInstallHeader QtConcurrent : qtinstall 3rd ;
+AWInstallHeader QtConcurrentDepends : qtinstall 3rd ;
+AWInstallHeader QtConcurrentFilter : qtinstall 3rd ;
+AWInstallHeader QtConcurrentMap : qtinstall 3rd ;
+AWInstallHeader QtConcurrentRun : qtinstall 3rd ;
+AWInstallHeader QtConcurrentVersion : qtinstall 3rd ;
+AWInstallHeader qtconcurrent_global.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentcompilertest.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentexception.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentfilter.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentfilterkernel.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentfunctionwrappers.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentiteratekernel.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentmap.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentmapkernel.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentmedian.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentreducekernel.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentrun.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentrunbase.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentstoredfunctioncall.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentthreadengine.h : qtinstall 3rd ;
+AWInstallHeader qtconcurrentversion.h : qtinstall 3rd ;

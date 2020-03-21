@@ -1,0 +1,17 @@
+AWSubDir TOP platform ntamd64 Components ExternalLibraries Qt 5.6.1 include QtWebKitWidgets ;
+
+AWInstallHeader QGraphicsWebView : qtinstall 3rd ;
+AWInstallHeader QWebFrame : qtinstall 3rd ;
+AWInstallHeader QWebHitTestResult : qtinstall 3rd ;
+AWInstallHeader QWebInspector : qtinstall 3rd ;
+AWInstallHeader QWebPage : qtinstall 3rd ;
+AWInstallHeader QWebView : qtinstall 3rd ;
+AWInstallHeader QtWebKitWidgets : qtinstall 3rd ;
+AWInstallHeader QtWebKitWidgetsDepends : qtinstall 3rd ;
+AWInstallHeader QtWebKitWidgetsVersion : qtinstall 3rd ;
+AWInstallHeader qgraphicswebview.h : qtinstall 3rd ;
+AWInstallHeader qtwebkitwidgetsversion.h : qtinstall 3rd ;
+AWInstallHeader qwebframe.h : qtinstall 3rd ;
+AWInstallHeader qwebinspector.h : qtinstall 3rd ;
+AWInstallHeader qwebpage.h : qtinstall 3rd ;
+AWInstallHeader qwebview.h : qtinstall 3rd ;
